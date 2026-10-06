@@ -38,9 +38,6 @@ build/
 *.tmp
 *.temp
 
-# Streamlit
-.streamlit/secrets.toml
-
 # Model files
 *.pkl
 *.joblib
